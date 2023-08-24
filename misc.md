@@ -56,7 +56,12 @@ I saw flag in sheet 2 in right side.It is flag.
 **How many languages can you speak ?**
 >I downloaded given mp4 and i watch it and notify that is look like morse code.So i go to audio to morse website adnd paste it and got
 >a morse code and translate to text
->used site : https://morsecode.world/international/decoder/audio-decoder-expert.html
+>used site :
+>https://morsecode.world/international/decoder/audio-decoder-expert.
+
+>https://databorder.com/transfer/morse-sound-receiver/
+>![help me](/img/photo_2023-08-24_21-42-11.jpg)
+
 
 ## Wallet Address
 >APT group used Whipser Gate to perfrom destructive operation. 
